@@ -91,6 +91,14 @@ streamlit run dashboard.py
 
 ## 📸 Screenshots
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/7e40ed15-f3c1-44d8-a47d-fe2acf22ec80" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/c26176aa-4b4e-48e7-8781-62d8d08806f8" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/bc7936ec-c4bb-4f1c-b73c-92662c48d6c4" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/c44a8a6f-66fd-46d9-a357-d56743545c0f" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/93a73207-97ad-47b4-bc8b-e5caebc35079" 
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/4dd3fe72-95bd-40a5-aa02-2959207a2c41" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/597fb265-76f3-4f07-a2eb-2bd286126948" />
+
+
 
 
 ---
